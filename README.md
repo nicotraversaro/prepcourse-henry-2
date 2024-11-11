@@ -1,2 +1,1 @@
-# prepcourse-henry-2
-este es tambien un repositorio de prueba, pero con el README file activado
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi computadora.
